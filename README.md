@@ -51,4 +51,4 @@ Are movies more common than TV shows?
 Which countries produce the most content?
 What are the most common rating categories?
 
-<img width="294" height="254" alt="image" src="https://github.com/user-attachments/assets/63029074-f15d-41b8-bf7f-04f9398b8ad0" />
+<img width="944" height="473" alt="image" src="https://github.com/user-attachments/assets/6c48b0c9-8dd6-4229-9b65-17762b63ff5d" />
